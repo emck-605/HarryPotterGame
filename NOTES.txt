@@ -1,0 +1,19 @@
+HP gAME
+
+PLAYER ->
+public class player
+{
+	public Attack Attack {get;set;}
+
+
+	public  player(){
+		Attack= new Attack();
+	}
+}
+
+1st mosnter you meet , cant hurt , you should leave ....
+tell that there is another place to go (give choice...)
+
+Monster->
+castle -> has rooms  
+forest -> end last stone 
